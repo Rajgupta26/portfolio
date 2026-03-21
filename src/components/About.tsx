@@ -6,11 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Detail-oriented Information Technology student at St. John College of Engineering and Management. Passionate about building scalable mobile applications and leveraging cloud infrastructure. Certified in AWS Cloud and Flutter, with a proven ability to translate complex data into actionable insights using Power BI. Seeking an internship to contribute technical skills to a fast-paced development team.
         </p>
       </div>
     </div>
